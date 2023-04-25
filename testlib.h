@@ -1,0 +1,1 @@
+int sum_of_squares(double* seq, int n);
